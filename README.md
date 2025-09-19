@@ -4,17 +4,17 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Master’s student in **Electronic Systems Design & Innovation** @ NTNU  
-- 🌍 Exchange year @ **Instituto Superior Técnico, Lisbon** (AI & Telecom)  
-- 💡 Interested in **applied machine learning, IoT, and process automation**  
-- 🔧 Hands-on experience from **Emerson Automation Solutions** (process automation & control systems)  
-- 📱 Co-founder of **Handletur**, a grocery shopping app (App Store & Google Play)  
+### About Me
+-  Master’s student in **Electronic Systems Design & Innovation** @ NTNU  
+-  Exchange year @ **Instituto Superior Técnico, Lisbon** (AI & Telecom)  
+-  Interested in **applied machine learning, IoT, and process automation**  
+-  Hands-on experience from **Emerson Automation Solutions** (process automation & control systems)  
+-  Co-founder of **Handletur**, a grocery shopping app (App Store & Google Play)  
 
 ---
 
-### 🔥 Featured Projects
-🌟 Here are some projects I’m proud of:  
+###  Featured Projects
+ Here are some projects I’m proud of:  
 
 - **Handletur (Showcase)**  
   <sub>Cross-platform grocery shopping app with real-time Norwegian supermarket prices</sub>  
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trulsostvedt&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trulsostvedt&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -56,7 +56,7 @@
 
 ---
 
-### 📫 Let’s Connect!
+###  Let’s Connect!
 <p>
   <a href="https://www.linkedin.com/in/truls-østvedt-78459a263">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
